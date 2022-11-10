@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **a private project.**<br>🌱 I’m currently learning **A.I and Blockchain Technology**<br>💬 Ask me about **Crypto, Vue and Business.**<br>📫 How to reach me **swithubromania@gmail.com**
+🔭 I’m currently working on **a huge FiveM Project.**<br>🌱 I’m currently learning **A.I and Blockchain Technology**<br>💬 Ask me about **Crypto, Vue and Business.**<br>📫 How to reach me **swithubromania@gmail.com**
 
 
 ## 🌐 Socials:
