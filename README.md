@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on my own FiveM Framework.<br>🌱 I’m currently learning Machine Learning<br>💬 I'm passionate about ThreeJS, Vue and Typescript<br>📫 How to reach me mihai.trandafir0306@gmail.com</p>
+<p align="left">🔭 I’m currently working on my own FiveM Framework.<br>🌱 I’m currently learning Next.js<br>📫 How to reach me mihai.trandafir0306@gmail.com</p>
 
 ###
 
